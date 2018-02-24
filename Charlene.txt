@@ -2,27 +2,12 @@
 <html>
 <head>
 <title>Charlene's Portfolio</title>
-<style>
-body {
-    background-color: lightblue;
-}
-
-</style>
-<style>
-p.sansserif {
-    font-family: 'Oswald', sans-serif;
-	}
-</style>
 </head>
-   
 <body>
 
 <h1>Welcome</h1>
 <p>My name is Charlene. Okay bye.</p>
 <img src="Bye.jpg" alt="Bye" height="110" width="110">
-
-
-
 
 </body>
 </html>
